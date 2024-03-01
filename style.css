@@ -1,0 +1,91 @@
+h1{
+
+font-size: 400%;
+color: #359C14;
+font-family: inherit;
+top: 0%;
+
+}
+body{
+
+background-image: url(https://www.miescape.mx/miescape/Portals/0/Resources/Images/Mexico/Guia%20Turistica/Tabasco/TabascoHome1_960x651.jpg?ver=2015-11-18-111001-880);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+width: 1790px;
+height: 1300px;
+margin: 0;
+background-position: 0% 20%;
+
+}
+.imagen1{
+
+background-image: url(https://ecrubio.com/wp-content/uploads/2023/03/cuadro-blanco.png-555x555.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+width: 1200px;
+height: 580px;
+position: center center;
+border-radius: 10px;
+opacity: .8;
+
+}
+h2{
+
+color: white;
+
+}
+h3{
+
+text-align: justify;
+font-size: 150%;
+
+}
+nav{
+
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-top: 20px;
+padding-left: 5%;
+padding-right: 5%;
+font-weight: bold;
+
+}
+ul li{
+list-style: none;
+display: inline-block;
+padding: 0px  20px;
+background: black;
+height: 20px;
+border-radius: 5px;
+background-size: cover;
+background-position: center;
+opacity: .9;
+
+}
+a{
+
+color: white;
+text-decoration: none;
+
+}
+a:hover{
+    color: #E847E0;
+
+
+
+}
+.imagenes{
+
+display: flex;
+justify-content: center;
+margin: 0 50px;
+
+}
+.alinear{
+
+margin: 0 10px;
+
+}
